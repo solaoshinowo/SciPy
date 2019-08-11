@@ -1,0 +1,43 @@
+"""
+Created on Sun Aug 11 01:43:14 2019
+
+@author: sola
+"""
+
+
+"""
+SciPy, pronounced as Sigh Pi, is a scientific python open source, distributed under the BSD
+licensed library to perform Mathematical, Scientific and Engineering Computations.
+The SciPy library depends on NumPy, which provides convenient and fast N-dimensional
+array manipulation. The SciPy library is built to work with NumPy arrays and provides
+many user-friendly and efficient numerical practices such as routines for numerical
+integration and optimization. Together, they run on all popular operating systems, are
+quick to install and are free of charge. NumPy and SciPy are easy to use, but powerful
+enough to depend on by some of the world's leading scientists and engineers.
+
+
+Data Structure
+The basic data structure used by SciPy is a multidimensional array provided by the NumPy
+module. NumPy provides some functions for Linear Algebra, Fourier Transforms and
+Random Number Generation, but not with the generality of the equivalent functions in Scipy
+
+
+Below are Scipy's sub packages
+SciPy is organized into sub-packages covering different scientific computing domains. 
+
+These are summarized in the below:
+scipy.cluster used for Vector quantization / Kmeans
+scipy.constants used for Physical and mathematical constants
+scipy.fftpack used for Fourier transform
+scipy.integrate used for Integration routines
+scipy.interpolate used for Interpolation
+scipy.io  used for Data input and output
+scipy.linalg used for Linear algebra routines
+scipy.ndimage used for n-dimensional image package
+scipy.odr used for Orthogonal distance regression
+scipy.optimize used for Optimization
+scipy.signal used for Signal processing
+scipy.sparse used for Sparse matrices
+
+in subsequent files, i will demonstrate the uses of the sub packages
+"""
